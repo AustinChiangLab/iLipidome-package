@@ -72,7 +72,7 @@ FA_sub_extract <- function(char_table, FA_substructure,
       FA_sub_stop[[num]] <- ""
     } else if (last(FA_sub$x) == "16:0;0") {
       FA_sub_stop[[num]] <- FA_sub$x
-    } else if (exo_lipid_with_neighbor != "" && last(FA_sub$x) %in% exo_lipid_with_neighbor) {
+    } else if (any(exo_lipid_with_neighbor != "") && last(FA_sub$x) %in% exo_lipid_with_neighbor) {
       FA_sub_stop[[num]] <- last(FA_sub$x)
     } else {
       if (last(FA_sub$log2FC > 0)) {

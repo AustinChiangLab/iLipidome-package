@@ -11,7 +11,7 @@ Numerous biological processes and diseases are influenced by lipid composition. 
 \seealso{
 Useful links:
 \itemize{
-  \item Report bugs at \url{https://github.com/LewisLabUCSD/iLipidome-package/issues}
+  \item Report bugs at \url{https://github.com/AustinChiangLab/iLipidome-package/issues}
 }
 
 }

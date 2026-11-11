@@ -13,7 +13,7 @@ This tutorial presents a series of ``iLipidome`` functions that facilitate a com
 # How to install
 
 1. Make sure you have the `devtools` R package. If you do not already have it installed, install it using `install.packages("devtools")`.
-2. Run `devtools::install_github("LewisLabUCSD/iLipidome-package")` in R to install the iLipidome package, and you're done!
+2. Run `devtools::install_github("AustinChiangLab/iLipidome-package")` in R to install the iLipidome package, and you're done!
 
 # System Requirements
 ## Hardware requirements

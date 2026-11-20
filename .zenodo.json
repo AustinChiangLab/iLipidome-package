@@ -1,0 +1,61 @@
+{
+  "title": "iLipidome: lipidomics data analysis in the context of the lipid biosynthetic network",
+  "description": "<p>iLipidome is an R package for analyzing lipidomics data in the context of the lipid biosynthetic network. It decomposes measured lipids into fatty-acyl and backbone substructures and propagates abundance changes over the network to score pathways and reactions and to attribute them to enzymes, at the fatty-acid, lipid-class and lipid-species levels.</p><p>Install with <code>devtools::install_github(\"AustinChiangLab/iLipidome-package\")</code>. Source and issue tracker: https://github.com/AustinChiangLab/iLipidome-package</p>",
+  "upload_type": "software",
+  "access_right": "open",
+  "license": "mit",
+  "creators": [
+    {
+      "name": "Lin, Wen-Jen",
+      "affiliation": "China Medical University, Taiwan",
+      "orcid": "0000-0001-9568-9178"
+    },
+    {
+      "name": "Chiang, Austin W.T.",
+      "affiliation": "Augusta University",
+      "orcid": "0000-0001-6514-5612"
+    },
+    {
+      "name": "Zhou, Evanston H.",
+      "affiliation": "University of California, San Diego"
+    },
+    {
+      "name": "Liang, Chenguang",
+      "affiliation": "University of California, San Diego"
+    },
+    {
+      "name": "Liu, Chia-Hsin",
+      "affiliation": "China Medical University, Taiwan",
+      "orcid": "0000-0002-2880-8365"
+    },
+    {
+      "name": "Ma, Wen-Lung",
+      "affiliation": "China Medical University, Taiwan",
+      "orcid": "0009-0002-7116-4304"
+    },
+    {
+      "name": "Cheng, Wei-Chung",
+      "affiliation": "China Medical University, Taiwan",
+      "orcid": "0000-0002-1229-4857"
+    },
+    {
+      "name": "Lewis, Nathan E.",
+      "affiliation": "University of California, San Diego",
+      "orcid": "0000-0001-7700-3654"
+    }
+  ],
+  "keywords": [
+    "lipidomics",
+    "lipid biosynthetic network",
+    "substructure analysis",
+    "pathway analysis",
+    "R package"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://doi.org/10.1101/2024.05.16.594607",
+      "relation": "isSupplementTo",
+      "resource_type": "publication-preprint"
+    }
+  ]
+}

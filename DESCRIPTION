@@ -4,7 +4,7 @@ Title: Lipidomics Data Analysis In The Context Of The Lipid Biosynthetic Network
 Version: 0.1.1
 Authors@R: c(
     person("Wen-Jen", "Lin", email = "waxlos987@gmail.com", role = c("aut", "cre")),
-    person("Austin W.T.", "Chiang", email = "austin.chiang@gmail.com", role = c("aut")),
+    person("Austin W.T.", "Chiang", email = "auchiang@augusta.edu", role = c("aut")),
     person("Evanston H.", "Zhou", email = "ehzhou@ucsd.edu", role = c("aut")),
     person("Chenguang", "Liang", role = c("aut")),
     person("Chia_Hsin", "Liu", role = c("aut")),

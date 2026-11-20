@@ -20,7 +20,7 @@ Useful links:
 
 Authors:
 \itemize{
-  \item Austin W.T. Chiang \email{austin.chiang@gmail.com}
+  \item Austin W.T. Chiang \email{auchiang@augusta.edu}
   \item Evanston H. Zhou \email{ehzhou@ucsd.edu}
   \item Chenguang Liang
   \item Chia_Hsin Liu
